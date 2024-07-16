@@ -1,0 +1,3 @@
+/Users/arpitgiri/Desktop/Socia_Net/cmake-build-debug/CMakeFiles/Socia_Net.dir
+/Users/arpitgiri/Desktop/Socia_Net/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arpitgiri/Desktop/Socia_Net/cmake-build-debug/CMakeFiles/rebuild_cache.dir
